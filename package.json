@@ -5,8 +5,8 @@
   "keywords": [
     "typescript"
   ],
-  "author": "Simon Huber <simon.huber@renuo.ch>",
-  "homepage": "https://github.com/renuo/",
+  "author": "Lukas Elmer <lukas.elmer@gmail.com>",
+  "homepage": "https://github.com/lukaselmer/",
   "license": "MIT",
   "dependencies": {
     "tslint-eslint-rules": "^3.2.3",
@@ -31,14 +31,14 @@
     "tslint": "^4.3.1",
     "tslint-loader": "^3.3.0",
     "typedoc": "^0.4.4",
-    "typescript": "^2.1.6"
+    "typescript": "^2.7.2"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/renuo/tsmeetup-2017-02-21"
   },
   "engines": {
-    "node": ">= 7.5.0",
+    "node": ">= 9.6.0",
     "npm": ">= 3"
   }
 }
